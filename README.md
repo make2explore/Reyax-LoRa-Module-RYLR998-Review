@@ -4,16 +4,16 @@ Unboxing, Review and Getting Started with RYLR998 LoRa Transreceiver Module.
 <img src="/Images/LoRa-RYLR998-Thumb.png" height="250" >
   
 
-The RYLR998 transceiver module feature the LoRa® long range modem that provides ultra-long range spread spectrum communication and high interference immunity whilst minimizing current consumption.    
+The RYLR998 transceiver module feature the LoRa® **long range** modem that provides ultra-long range spread spectrum communication and **high interference immunity** whilst minimizing current consumption.    
 
-This LoRa Module is manufactured by Reyax Technology Corp. Ltd. Which is a Taiwan based electronics and semiconductor manufacturing company. Which mainly works in, wireless communications  and, IoT domains.  
+This LoRa Module is manufactured by **Reyax Technology Corp. Ltd.** Which is a Taiwan based electronics and semiconductor manufacturing company. Which mainly works in, wireless communications  and, IoT domains.  
 
 
 This tutorial / Device Overview is about RYLR998 LoRa Module. We've discussed..  
-- What is LoRa Technology ? - Basic Introduction. 
-- Datasheet of RYLR998 - Features, Specifications, Electrical Characteristics, Et Cetra.  
-- AT Commands Guide - RYLR998 LoRa Module configuration using AT commands.  
-- One DIY Project using RYLR998 LoRa Modules
+- **What is LoRa Technology ?** - Basic Introduction. 
+- **Datasheet of RYLR998** - Features, Specifications, Electrical Characteristics, Et Cetra.  
+- **AT Commands Guide** - RYLR998 LoRa Module configuration using AT commands.  
+- **One DIY Project** using RYLR998 LoRa Modules
 
 
 ------------------------------------------------------------------------------------------------------
