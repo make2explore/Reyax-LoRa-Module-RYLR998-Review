@@ -20,10 +20,11 @@ This tutorial / Device Overview is about RYLR998 LoRa Module. We've discussed..
 ▶️ [Device Overview] Reyax LoRa RYLR998 Module - 🔗 https://youtu.be/UFjA9VwudE0  
 
 -------------------------------------------------------------------------------------------------------
-🌐 **Important Links**  
+📒 **Important Links**  
  
 🌐 Reyax Website - 🔗 https://reyax.com/  
 🌐 RYLR998 Product page - 🔗 https://reyax.com/products/rylr998/  
+
 
 📜 Source Code, Circuit Diagrams and Documentation : 
 
