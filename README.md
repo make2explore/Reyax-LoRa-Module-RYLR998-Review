@@ -1,5 +1,5 @@
 # Reyax-LoRa-Module-RYLR998-Review
-Review of RYLR998 LoRa Transreceiver Module.
+Unboxing, Review and Getting Started with RYLR998 LoRa Transreceiver Module.
   
 <img src="/Images/LoRa-RYLR998-Thumb.png" height="250" >
   
