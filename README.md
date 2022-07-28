@@ -28,6 +28,11 @@ This tutorial / Device Overview is about RYLR998 LoRa Module. We've discussed..
 🌐 Reyax Website - 🔗 https://reyax.com/  
 🌐 RYLR998 Product page - 🔗 https://reyax.com/products/rylr998/  
 
+🔴 RYLR998 Module Purchase Links -  
+
+🛒 AMAZON -  🔗 https://www.amazon.com/REYAX-RYLR998-Interface-Antenna-Transceiver/dp/B099RM1XMG  
+🛒 TECHDesign -  🔗 https://www.techdesign.com/market/reyax/product-detail/ryx000037/rylr998?packing=Unit&tab=description  
+
 
 📜 Source Code, Circuit Diagrams and Documentation : 
 
