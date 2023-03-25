@@ -121,7 +121,7 @@ unsigned long previousTime = 0;
 void setup() {
   Serial.begin(9600);
   
-  // Insitialise Software serial and Set the baud rate for the SoftwareSerial object
+  // Initialise Software serial and Set the baud rate for the SoftwareSerial object
   sendLoRa.begin(115200);
   delay(1000);
 
