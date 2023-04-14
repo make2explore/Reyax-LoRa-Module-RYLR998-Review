@@ -36,7 +36,11 @@ This tutorial / Device Overview is about RYLR998 LoRa Module. We've discussed..
 
 📜 Source Code, Circuit Diagrams and Documentation : 
 
-🌐 GitHub Repository - 🔗 https://github.com/make2explore/Reyax-LoRa-Module-RYLR998-Review
+🌐 GitHub Repository - 🔗 https://github.com/make2explore/Reyax-LoRa-Module-RYLR998-Review  
+  
+🌐 Hackster Blog - 🔗 https://www.hackster.io/make2explore/greenhouse-monitoring-system-lora-iot-fb6907  
+  
+🌐 Instructable Blog - 🔗 https://www.instructables.com/Greenhouse-Monitoring-System/  
 
 ------------------------------------------------------------------------------------------  
 
